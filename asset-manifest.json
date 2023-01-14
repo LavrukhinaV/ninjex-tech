@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/ninjex-tech/static/css/main.5f21cbc0.css",
-    "main.js": "/ninjex-tech/static/js/main.b8c683cf.js",
+    "main.css": "/ninjex-tech/static/css/main.510f1f4a.css",
+    "main.js": "/ninjex-tech/static/js/main.7bf7d79f.js",
     "static/media/backgroung.png": "/ninjex-tech/static/media/backgroung.09216dc68bf66fc90bfd.png",
     "static/media/form-background.png": "/ninjex-tech/static/media/form-background.4341531ff7929ae16b5e.png",
     "static/media/service-section-background.png": "/ninjex-tech/static/media/service-section-background.dac92c183cfd74a4cc3a.png",
+    "static/media/project-image.png": "/ninjex-tech/static/media/project-image.fe95e7ea5b4db6003a8b.png",
     "static/media/3.png": "/ninjex-tech/static/media/3.ae507cd0106e4b1bf546.png",
     "static/media/1.png": "/ninjex-tech/static/media/1.e3e762cfa2a2fa5af5aa.png",
     "static/media/4.png": "/ninjex-tech/static/media/4.8e5dae0f2e77b9e33bbf.png",
@@ -23,7 +24,11 @@
     "static/media/OrbitronBold.woff": "/ninjex-tech/static/media/OrbitronBold.e44f940dcee5c9598c79.woff",
     "static/media/Object4.png": "/ninjex-tech/static/media/Object4.daf1408ad49fd6065525.png",
     "static/media/FooterLogo.svg": "/ninjex-tech/static/media/FooterLogo.4eaf0098e12555806069ba0d22b1a16e.svg",
+    "static/media/slick.svg": "/ninjex-tech/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ninjex-tech/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ninjex-tech/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/ui-ux.svg": "/ninjex-tech/static/media/ui-ux.f9c4a7c9e559eb69c708.svg",
+    "static/media/slick.woff": "/ninjex-tech/static/media/slick.295183786cd8a1389865.woff",
     "static/media/TelegramLogo.svg": "/ninjex-tech/static/media/TelegramLogo.149d52211ed22b615d915af960d63603.svg",
     "static/media/TelegramLogo-blue.svg": "/ninjex-tech/static/media/TelegramLogo-blue.725707e96b182bc2ae3d.svg",
     "index.html": "/ninjex-tech/index.html",
@@ -35,11 +40,12 @@
     "static/media/cancel.svg": "/ninjex-tech/static/media/cancel.728f6d913e44a45f5536.svg",
     "static/media/checkbox.svg": "/ninjex-tech/static/media/checkbox.29e6408b453f536baa90.svg",
     "static/media/arrow-bottom.svg": "/ninjex-tech/static/media/arrow-bottom.88b35b429b23f57a565f.svg",
-    "main.5f21cbc0.css.map": "/ninjex-tech/static/css/main.5f21cbc0.css.map",
-    "main.b8c683cf.js.map": "/ninjex-tech/static/js/main.b8c683cf.js.map"
+    "static/media/arrow-next.svg": "/ninjex-tech/static/media/arrow-next.428d5a36135061e3edbb.svg",
+    "main.510f1f4a.css.map": "/ninjex-tech/static/css/main.510f1f4a.css.map",
+    "main.7bf7d79f.js.map": "/ninjex-tech/static/js/main.7bf7d79f.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f21cbc0.css",
-    "static/js/main.b8c683cf.js"
+    "static/css/main.510f1f4a.css",
+    "static/js/main.7bf7d79f.js"
   ]
 }
