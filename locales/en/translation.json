@@ -1,21 +1,22 @@
 {
   "header": {
-    "startProjectButton": "Start Project"
+    "startProjectButton": "Contact us"
   },
   "navLinks": {
     "Team": "Team",
-    "Service": "Service",
-    "Technology": "Technology"
+    "Service": "Services",
+    "Technology": "Technology",
+    "Projects": "Projects"
   },
   "about": {
     "title": "Ninjex Tech",
-    "subtitle": "Full-cycle studio focusing on blockchain and Web3 technology",
-    "button": "Start project",
-    "alt": "Logo"
+    "subtitle": "Full-cycle agency focused, but not limited on blockchain and Web3 technology",
+    "button": "Contact us",
+    "alt": "Ninjex logo"
   },
   "team": {
     "title": "Team",
-    "subtitle": "Participate in project work more than 20 experts from 7 countries",
+    "subtitle": "More than 20 experts from 7 countries are ready to help you",
     "imageAlt": "Team",
     "georgiaImageAlt": "Georgia",
     "ukraineImageAlt": "Ukraine",
@@ -26,26 +27,38 @@
     "thailandImageAlt": "Thailand"
   },
   "service": {
-    "title": "Service",
-    "backEnd": "Back-end",
+    "title": "Services",
+    "backend": "Backend",
     "mobileApplications": "Mobile applications",
     "smartContract": "Smart contract",
+    "frontend": "Frontend",
     "UI/UX": "UI/UX",
-    "crmSystem": "CRM System",
-    "loadMore": "and 11 more",
+    "crmSystem": "CRM system",
+    "miningSoftware": "Mining software",
+    "gameFi": "GameFi",
+    "web3Consulting": "Web3 consulting",
+    "blockchains": "Blockchains",
+    "businessAnalytics": "Business analytics",
+    "systemDesign": "System design",
+    "auditApps": "Security audit",
+    "auditSmartContracts": "Contract audit",
+    "tokenomics": "Tokenomics design",
+    "tests": "Automatic and manual testing",
+    "SAPintegration": "SAP integrations",
+    "loadMore": "and 12 more",
     "hide": "hide"
   },
   "technologies": {
-    "title": "Technology",
-    "subtitle": "Lorem ipsum dolor sit amet consectetur. Pretium non lectus pretium ullamcorper. Facilisis viverra leo dictumst praesent condimentum. Facilisi sit justo.",
+    "title": "Technologies we work with",
+    "subtitle": "We choose a technology stack depending on the project, but we are always ready to learn something new",
     "backend": "Backend",
-    "backendSubtitle": "Golang, java, js, ts, c#, c++, c, php (Laravel)",
+    "backendSubtitle": "Golang, Java, JS, TS, C#, C++, C, Laravel, NodeJS",
     "databases": "Databases",
     "databasesSubtitle": "PostgreSQL, MySQL, MongoDB, SQLight, Redis",
     "web3": "Web3",
     "web3Subtitle": "Solidity, HardHad, Truffle, Slither, Mythril, Smartcheck",
     "frontend": "Frontend",
-    "frontendSubtitle": "React, Vue, Angular, Gatsby",
+    "frontendSubtitle": "React JS, VueJS, Angular, Gatsby",
     "mobileApps": "Mobile apps",
     "mobileAppsSubtitle": "Kotlin, Swift, React Native",
     "tools": "Tools",
@@ -54,24 +67,26 @@
     "testingSubtitle": "Selenium, Robot, Postman, Jenkins, Jest, RTL, Mocha, Chai, JMeter, Swagger",
     "sap": "SAP",
     "sapSubtitle": "ABAP, BADI, BAPI, Enhancements, ALV, SAP UI 5, Fiori, oData",
-    "button": "Order Design"
+    "button": "Contact us"
   },
   "projects": {
     "title": "Our Projects",
-    "startProjectButton": "Start project"
+    "startProjectButton": "Contact us"
   },
   "form": {
-    "title": "Start To Cooperate With Us!",
-    "subtitle": "Do you want to discuss your project or ask us some questions about our feedback-form? Please feel free to contact us, and we will contact you soon.",
-    "confirmAgreement": "I agree with everything and sell my kidney.",
-    "submitButton": "Send Out!",
-    "namePlaceholder": "Honor one's name",
-    "secondNamePlaceholder": "What's your name",
-    "emailPlaceholder": "E-mail communication",
-    "numberPlaceholder": "Contact number",
+    "title": "Start to cooperate with us!",
+    "subtitle": "Do you want to discuss your project or ask us some questions? Please feel free to contact us, and we will answer you soon.",
+    "confirmAgreement": "I agree with privacy policy.",
+    "submitButton": "Submit",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "Email",
     "requiredError": "Field is required!",
     "wrongEmail": "Wrong email",
     "confirmError": "Confirmation required!"
+  },
+  "submitPopup": {
+    "title": "Modal Window",
+    "button": "Great!"
   },
   "footer": {
     "copywriter": "2023. All rights reserved",

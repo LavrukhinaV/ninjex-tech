@@ -1,56 +1,69 @@
 {
   "header": {
-    "startProjectButton": "Заказать проект"
+    "startProjectButton": "Связаться с нами"
   },
   "navLinks": {
     "Team": "Команда",
     "Service": "Услуги",
-    "Technology": "Технологии"
+    "Technology": "Технологии",
+    "Projects" : "Проекты"
   },
 	"about": {
     "title": "Ninjex Tech",
-    "subtitle": "Cтудия полного цикла с упором на blockchain и web3 технологии",
-    "button": "Запустить проект",
-    "alt": "Лого"
+    "subtitle": "Агенство полного цикла с упором на blockchain и web3 технологии",
+    "button": "Связаться с нами",
+    "alt": "Ninjex лого"
   },
   "team": {
     "title": "Команда",
-    "subtitle": "В работе над проектами задействовано 20+ специалистов из 7 стран",
+    "subtitle": "Более 20 экспертов из 7 стран готовы помочь вам",
     "imageAlt": "Команда",
     "georgiaImageAlt": "Грузия",
     "ukraineImageAlt": "Украина",
     "serbiaImageAlt": "Сербия",
     "polandImageAlt": "Польша",
     "russiaImageAlt": "Россия",
-    "belarusImageAlt": "Белоруссия",
+    "belarusImageAlt": "Беларусь",
     "thailandImageAlt": "Тайланд"
   },
   "service": {
     "title": "Услуги",
-    "backEnd": "Бекенд",
+    "backend": "Бекенд",
     "mobileApplications": "Мобильные приложения",
-    "smartContract": "Смарт-контракты",
-    "UI/UX": "Отзывчивый интерфейс (UI/UX)",
-    "crmSystem": "CRM-системы",
-    "loadMore": "и еще 11",
+    "smartContract": "Смарт контракты",
+    "frontend": "Фронтенд",
+    "UI/UX": "UI/UX",
+    "crmSystem": "CRM системы",
+    "miningSoftware": "Майнинг ПО",
+    "gameFi": "GameFi",
+    "web3Consulting": "Web3 консалтинг",
+    "blockchains": "Блокчейны",
+    "businessAnalytics": "Бизнес-аналитика",
+    "systemDesign": "Системная архитектура",
+    "auditApps": "Аудит безопасности",
+    "auditSmartContracts": "Аудит контрактов",
+    "tokenomics": "Токеномика",
+    "tests": "Автоматическое и ручное тестирование",
+    "SAPintegration": "SAP интеграции",
+    "loadMore": "и еще 12",
     "hide": "скрыть"
   },
   "technologies": {
     "title": "Технологии",
-    "subtitle": "Lorem ipsum dolor sit amet consectetur. Pretium non lectus pretium ullamcorper. Facilisis viverra leo dictumst praesent condimentum. Facilisi sit justo.",
-    "backend": "Backend",
+    "subtitle": "Мы выбираем технологии исходя из нужд проекта, но всегда готовы использовать что-то новое",
+    "backend": "Бекенд",
     "backendSubtitle": "Golang, java, js, ts, c#, c++, c, php (Laravel)",
-    "databases": "Databases",
+    "databases": "Базы данных",
     "databasesSubtitle": "PostgreSQL, MySQL, MongoDB, SQLight, Redis",
     "web3": "Web3",
     "web3Subtitle": "Solidity, HardHad, Truffle, Slither, Mythril, Smartcheck",
-    "frontend": "Frontend",
+    "frontend": "Фронтенд",
     "frontendSubtitle": "React, Vue, Angular, Gatsby",
-    "mobileApps": "Mobile apps",
+    "mobileApps": "Мобильные приложения",
     "mobileAppsSubtitle": "Kotlin, Swift, React Native",
-    "tools": "Tools",
+    "tools": "Инструменты",
     "toolsSubtitle": "Docker, Ansible, AWS, Kubernetes",
-    "testing": "Testing",
+    "testing": "Тестирование",
     "testingSubtitle": "Selenium, Robot, Postman, Jenkins, Jest, RTL, Mocha, Chai, JMeter, Swagger",
     "sap": "SAP",
     "sapSubtitle": "ABAP, BADI, BAPI, Enhancements, ALV, SAP UI 5, Fiori, oData",
@@ -62,16 +75,18 @@
   },
   "form": {
     "title": "Начните работать с нами!",
-    "subtitle": "Хотите обсудить свой проект или задать нам какой-нибудь вопрос о наших услугах? Не стесняйтесь обращаться к нам в любое время, и мы свяжемся с вами в ближайшее время.У вас есть вопрос или вы хотите связаться с нами?",
-    "confirmAgreement": "Соглашаюсь со всем",
-    "submitButton": "Отправить!",
+    "subtitle": "Хотите обсудить свой проект или задать нам какой-нибудь вопрос? Не стесняйтесь обращаться к нам, и мы свяжемся с вами в ближайшее время.",
+    "confirmAgreement": "Соглашаюсь с политикой конфиденциальности",
+    "submitButton": "Отправить",
     "namePlaceholder": "Ваше имя",
-    "secondNamePlaceholder": "Ваша фамилия",
-    "emailPlaceholder": "Email для связи",
-    "numberPlaceholder": "Телефон для связи",
+    "emailPlaceholder": "Email",
     "requiredError": "Поле обязательно",
     "wrongEmail": "Email указан некорректно",
     "confirmError": "Необходимо подвердить согласие"
+  },
+  "submitPopup": {
+    "title": "Модальное окно",
+    "button": "Отлично!"
   },
   "footer": {
     "copywriter": "2023.Все права защищены",

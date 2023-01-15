@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ninjex-tech/static/css/main.f1d95a5f.css",
-    "main.js": "/ninjex-tech/static/js/main.68b83471.js",
+    "main.css": "/ninjex-tech/static/css/main.fe386c98.css",
+    "main.js": "/ninjex-tech/static/js/main.e7937943.js",
     "static/media/backgroung.png": "/ninjex-tech/static/media/backgroung.09216dc68bf66fc90bfd.png",
     "static/media/form-background.png": "/ninjex-tech/static/media/form-background.4341531ff7929ae16b5e.png",
     "static/media/service-section-background.png": "/ninjex-tech/static/media/service-section-background.dac92c183cfd74a4cc3a.png",
@@ -38,11 +38,11 @@
     "static/media/checkbox.svg": "/ninjex-tech/static/media/checkbox.29e6408b453f536baa90.svg",
     "static/media/arrow-bottom.svg": "/ninjex-tech/static/media/arrow-bottom.88b35b429b23f57a565f.svg",
     "static/media/arrow-next.svg": "/ninjex-tech/static/media/arrow-next.428d5a36135061e3edbb.svg",
-    "main.f1d95a5f.css.map": "/ninjex-tech/static/css/main.f1d95a5f.css.map",
-    "main.68b83471.js.map": "/ninjex-tech/static/js/main.68b83471.js.map"
+    "main.fe386c98.css.map": "/ninjex-tech/static/css/main.fe386c98.css.map",
+    "main.e7937943.js.map": "/ninjex-tech/static/js/main.e7937943.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1d95a5f.css",
-    "static/js/main.68b83471.js"
+    "static/css/main.fe386c98.css",
+    "static/js/main.e7937943.js"
   ]
 }
