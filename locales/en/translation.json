@@ -1,0 +1,80 @@
+{
+  "header": {
+    "startProjectButton": "Start Project"
+  },
+  "navLinks": {
+    "Team": "Team",
+    "Service": "Service",
+    "Technology": "Technology"
+  },
+  "about": {
+    "title": "Ninjex Tech",
+    "subtitle": "Full-cycle studio focusing on blockchain and Web3 technology",
+    "button": "Start project",
+    "alt": "Logo"
+  },
+  "team": {
+    "title": "Team",
+    "subtitle": "Participate in project work more than 20 experts from 7 countries",
+    "imageAlt": "Team",
+    "georgiaImageAlt": "Georgia",
+    "ukraineImageAlt": "Ukraine",
+    "serbiaImageAlt": "Serbia",
+    "polandImageAlt": "Poland",
+    "russiaImageAlt": "Russia",
+    "belarusImageAlt": "Belarus",
+    "thailandImageAlt": "Thailand"
+  },
+  "service": {
+    "title": "Service",
+    "backEnd": "Back-end",
+    "mobileApplications": "Mobile applications",
+    "smartContract": "Smart contract",
+    "UI/UX": "UI/UX",
+    "crmSystem": "CRM System",
+    "loadMore": "and 11 more",
+    "hide": "hide"
+  },
+  "technologies": {
+    "title": "Technology",
+    "subtitle": "Lorem ipsum dolor sit amet consectetur. Pretium non lectus pretium ullamcorper. Facilisis viverra leo dictumst praesent condimentum. Facilisi sit justo.",
+    "backend": "Backend",
+    "backendSubtitle": "Golang, java, js, ts, c#, c++, c, php (Laravel)",
+    "databases": "Databases",
+    "databasesSubtitle": "PostgreSQL, MySQL, MongoDB, SQLight, Redis",
+    "web3": "Web3",
+    "web3Subtitle": "Solidity, HardHad, Truffle, Slither, Mythril, Smartcheck",
+    "frontend": "Frontend",
+    "frontendSubtitle": "React, Vue, Angular, Gatsby",
+    "mobileApps": "Mobile apps",
+    "mobileAppsSubtitle": "Kotlin, Swift, React Native",
+    "tools": "Tools",
+    "toolsSubtitle": "Docker, Ansible, AWS, Kubernetes",
+    "testing": "Testing",
+    "testingSubtitle": "Selenium, Robot, Postman, Jenkins, Jest, RTL, Mocha, Chai, JMeter, Swagger",
+    "sap": "SAP",
+    "sapSubtitle": "ABAP, BADI, BAPI, Enhancements, ALV, SAP UI 5, Fiori, oData",
+    "button": "Order Design"
+  },
+  "projects": {
+    "title": "Our Projects",
+    "startProjectButton": "Start project"
+  },
+  "form": {
+    "title": "Start To Cooperate With Us!",
+    "subtitle": "Do you want to discuss your project or ask us some questions about our feedback-form? Please feel free to contact us, and we will contact you soon.",
+    "confirmAgreement": "I agree with everything and sell my kidney.",
+    "submitButton": "Send Out!",
+    "namePlaceholder": "Honor one's name",
+    "secondNamePlaceholder": "What's your name",
+    "emailPlaceholder": "E-mail communication",
+    "numberPlaceholder": "Contact number",
+    "requiredError": "Field is required!",
+    "wrongEmail": "Wrong email",
+    "confirmError": "Confirmation required!"
+  },
+  "footer": {
+    "copywriter": "2023. All rights reserved",
+    "privacyPolicy": "Privacy Policy"
+  }
+}

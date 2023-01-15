@@ -1,0 +1,81 @@
+{
+  "header": {
+    "startProjectButton": "Заказать проект"
+  },
+  "navLinks": {
+    "Team": "Команда",
+    "Service": "Услуги",
+    "Technology": "Технологии"
+  },
+	"about": {
+    "title": "Ninjex Tech",
+    "subtitle": "Cтудия полного цикла с упором на blockchain и web3 технологии",
+    "button": "Запустить проект",
+    "alt": "Лого"
+  },
+  "team": {
+    "title": "Команда",
+    "subtitle": "В работе над проектами задействовано 20+ специалистов из 7 стран",
+    "imageAlt": "Команда",
+    "georgiaImageAlt": "Грузия",
+    "ukraineImageAlt": "Украина",
+    "serbiaImageAlt": "Сербия",
+    "polandImageAlt": "Польша",
+    "russiaImageAlt": "Россия",
+    "belarusImageAlt": "Белоруссия",
+    "thailandImageAlt": "Тайланд"
+  },
+  "service": {
+    "title": "Услуги",
+    "backEnd": "Бекенд",
+    "mobileApplications": "Мобильные приложения",
+    "smartContract": "Смарт-контракты",
+    "UI/UX": "Отзывчивый интерфейс (UI/UX)",
+    "crmSystem": "CRM-системы",
+    "loadMore": "и еще 11",
+    "hide": "скрыть"
+  },
+  "technologies": {
+    "title": "Технологии",
+    "subtitle": "Lorem ipsum dolor sit amet consectetur. Pretium non lectus pretium ullamcorper. Facilisis viverra leo dictumst praesent condimentum. Facilisi sit justo.",
+    "backend": "Backend",
+    "backendSubtitle": "Golang, java, js, ts, c#, c++, c, php (Laravel)",
+    "databases": "Databases",
+    "databasesSubtitle": "PostgreSQL, MySQL, MongoDB, SQLight, Redis",
+    "web3": "Web3",
+    "web3Subtitle": "Solidity, HardHad, Truffle, Slither, Mythril, Smartcheck",
+    "frontend": "Frontend",
+    "frontendSubtitle": "React, Vue, Angular, Gatsby",
+    "mobileApps": "Mobile apps",
+    "mobileAppsSubtitle": "Kotlin, Swift, React Native",
+    "tools": "Tools",
+    "toolsSubtitle": "Docker, Ansible, AWS, Kubernetes",
+    "testing": "Testing",
+    "testingSubtitle": "Selenium, Robot, Postman, Jenkins, Jest, RTL, Mocha, Chai, JMeter, Swagger",
+    "sap": "SAP",
+    "sapSubtitle": "ABAP, BADI, BAPI, Enhancements, ALV, SAP UI 5, Fiori, oData",
+    "button": "Заказать проект"
+  },
+  "projects": {
+    "title": "Наши проекты",
+    "startProjectButton": "Заказать проект"
+  },
+  "form": {
+    "title": "Начните работать с нами!",
+    "subtitle": "Хотите обсудить свой проект или задать нам какой-нибудь вопрос о наших услугах? Не стесняйтесь обращаться к нам в любое время, и мы свяжемся с вами в ближайшее время.У вас есть вопрос или вы хотите связаться с нами?",
+    "confirmAgreement": "Соглашаюсь со всем",
+    "submitButton": "Отправить!",
+    "namePlaceholder": "Ваше имя",
+    "secondNamePlaceholder": "Ваша фамилия",
+    "emailPlaceholder": "Email для связи",
+    "numberPlaceholder": "Телефон для связи",
+    "requiredError": "Поле обязательно",
+    "wrongEmail": "Email указан некорректно",
+    "confirmError": "Необходимо подвердить согласие"
+  },
+  "footer": {
+    "copywriter": "2023.Все права защищены",
+    "privacyPolicy": "Политика конфиденциальности"
+  }
+
+}

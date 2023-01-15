@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ninjex-tech/static/css/main.cc415bd8.css",
-    "main.js": "/ninjex-tech/static/js/main.fdb6f16c.js",
+    "main.css": "/ninjex-tech/static/css/main.f1d95a5f.css",
+    "main.js": "/ninjex-tech/static/js/main.68b83471.js",
     "static/media/backgroung.png": "/ninjex-tech/static/media/backgroung.09216dc68bf66fc90bfd.png",
     "static/media/form-background.png": "/ninjex-tech/static/media/form-background.4341531ff7929ae16b5e.png",
     "static/media/service-section-background.png": "/ninjex-tech/static/media/service-section-background.dac92c183cfd74a4cc3a.png",
@@ -32,16 +32,17 @@
     "static/media/mobile-app.svg": "/ninjex-tech/static/media/mobile-app.b13331d2c63754881f21.svg",
     "static/media/backend.svg": "/ninjex-tech/static/media/backend.cdede6601355263d1fca.svg",
     "static/media/mobile-menu.svg": "/ninjex-tech/static/media/mobile-menu.e0726c087fc0f33d762f.svg",
+    "static/media/getFetch.cjs": "/ninjex-tech/static/media/getFetch.40f37ddea2378391108f.cjs",
     "static/media/button-close.svg": "/ninjex-tech/static/media/button-close.4d547fbc878aa5a4c936.svg",
     "static/media/cancel.svg": "/ninjex-tech/static/media/cancel.728f6d913e44a45f5536.svg",
     "static/media/checkbox.svg": "/ninjex-tech/static/media/checkbox.29e6408b453f536baa90.svg",
     "static/media/arrow-bottom.svg": "/ninjex-tech/static/media/arrow-bottom.88b35b429b23f57a565f.svg",
     "static/media/arrow-next.svg": "/ninjex-tech/static/media/arrow-next.428d5a36135061e3edbb.svg",
-    "main.cc415bd8.css.map": "/ninjex-tech/static/css/main.cc415bd8.css.map",
-    "main.fdb6f16c.js.map": "/ninjex-tech/static/js/main.fdb6f16c.js.map"
+    "main.f1d95a5f.css.map": "/ninjex-tech/static/css/main.f1d95a5f.css.map",
+    "main.68b83471.js.map": "/ninjex-tech/static/js/main.68b83471.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc415bd8.css",
-    "static/js/main.fdb6f16c.js"
+    "static/css/main.f1d95a5f.css",
+    "static/js/main.68b83471.js"
   ]
 }
